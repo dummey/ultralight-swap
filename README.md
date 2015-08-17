@@ -22,13 +22,26 @@ At the end of the two week (September 1), the thread will be locked. This is to 
 
     Shipping Range: [List of Countries in Range]
 
-    For Sale:
-    * ([Price]) [Item Name], [Condition] - [Comment]
-    * (US100) Tarptent Notch, Good Condition - Used for 10 days in Midwest, comes with stakes.  
-    * --something sold--
+    (For Sale)[imgur link]: 
+    * ([Price]) [Item Name], [Condition] - [Comment]  
+    * ~~([Price]) [Item Name], [Condition] - [Comment]~~
 
     Want to Buy:
-    * (US150) Tarptent Protrail
+    * ([Price]) [Item Name], [Condition] - [Comment]  
+
+An example:
+
+    Location: [USA]
+    Timezone: [GMT -6]
+
+    Shipping Range: [USA + Tophat]
+
+    (For Sale)[imgur link]: 
+    * ($100) Tarptent Notch, Good - 20 nights in the midwest  
+    * ~~($50) Patagonia Puffy Medium, Great - Started lifting, accidently got buff!~~
+
+    Want to Buy:
+    * ($100) Tarptent Double Rainbow, Any - Would love to get the footprint too.
 
 ##Replying to a posting:
 
