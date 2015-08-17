@@ -41,7 +41,7 @@ Reply to a post with the item(s) that you want to sell/trade to queue for them. 
 
 ##Tips
 * Sort by new! 
-* Safety tips via /r/gameswap: https://www.reddit.com/r/gameswap/comments/2zq1r5/psa_stay_safe_heres_how_also_several_common/
+* [Safety tips](https://www.reddit.com/r/gameswap/comments/2zq1r5/psa_stay_safe_heres_how_also_several_common/) via /r/gameswap
 
 
 
