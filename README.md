@@ -1,10 +1,10 @@
 Come one, come all to the first ever /r/ultralight swap meet! 
 
-This will be a two week swap meet where you can sell/buy/trade gear with your fellow redditors. Please keep items at least related to /r/ultralight and backpacking/hiking/camping. 
+This will be a two week swap meet where you can sell/trade gear with your fellow redditors. Please keep items at least related to /r/ultralight and backpacking/hiking/camping. 
 
 At the end of the two week (September 1), the thread will be locked. This is to encourage all of us to actually look through our closets instead of procrastinating. It is to also help us keep responses and transaction timely.
 
-**Disclaimer: Don’t be a jerk**
+**Disclaimer: Sell/trade at your own risk. Check your buyer/seller to make sure they are trustworthy.**
 
 ##Rules:
 1. Account must be at least one month old. And have 100 comment karma. 
@@ -17,8 +17,7 @@ At the end of the two week (September 1), the thread will be locked. This is to 
 
 ##Formatting Guidelines:
 
-    Location: [Location]
-    Timezone: [Timezone]
+    Location: [State/Province, Country]
 
     Shipping Range: [List of Countries in Range]
 
@@ -26,13 +25,9 @@ At the end of the two week (September 1), the thread will be locked. This is to 
     * ([Price]) [Item Name], [Condition] - [Comment]  
     * ~~([Price]) [Item Name], [Condition] - [Comment]~~
 
-    Want to Buy:
-    * ([Price]) [Item Name], [Condition] - [Comment]  
-
 An example:
 
-    Location: USA
-    Timezone: GMT -6
+    Location: Missouri, USA
 
     Shipping Range: USA + Tophat
 
@@ -40,15 +35,13 @@ An example:
     * ($100) Tarptent Notch, Good - 20 nights in the midwest  
     * ~~($50) Patagonia Puffy Medium, Great - Started lifting, accidently got buff!~~
 
-    Want to Buy:
-    * ($100) Tarptent Double Rainbow, Any - Would love to get the footprint too.
+##How to Sell/Trade:
 
-##How to Buy/Sell/Trade:
-
-Reply to a post with the item(s) that you want to buy/sell/trade to queue for them. Send the seller a PM to work out the details. 
+Reply to a post with the item(s) that you want to sell/trade to queue for them. Send the seller a PM to work out the details. 
 
 ##Tips
 * Sort by new! 
+* Safety tips via /r/gameswap: https://www.reddit.com/r/gameswap/comments/2zq1r5/psa_stay_safe_heres_how_also_several_common/
 
 
 
