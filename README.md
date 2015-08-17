@@ -2,7 +2,7 @@ Come one, come all to the first ever /r/ultralight swap meet!
 
 This will be a two week swap meet where you can sell/buy/trade gear with your fellow redditors. Please keep items at least related to /r/ultralight and backpacking/hiking/camping. 
 
-At the end of the two week (September 1), the thread will be locked. This is to encourage all of us to actually look through our closets instead of procrastinating. It is to help us keep responses and transaction timely. And to save all of us all time. 
+At the end of the two week (September 1), the thread will be locked. This is to encourage all of us to actually look through our closets instead of procrastinating. It is to also help us keep responses and transaction timely.
 
 **Disclaimer: Don’t be a jerk**
 
@@ -31,10 +31,10 @@ At the end of the two week (September 1), the thread will be locked. This is to 
 
 An example:
 
-    Location: [USA]
-    Timezone: [GMT -6]
+    Location: USA
+    Timezone: GMT -6
 
-    Shipping Range: [USA + Tophat]
+    Shipping Range: USA + Tophat
 
     (For Sale)[http://imgur.com/r/cats]: 
     * ($100) Tarptent Notch, Good - 20 nights in the midwest  
