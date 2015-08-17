@@ -4,7 +4,7 @@ This will be a two week swap meet where you can sell/buy/trade gear with your fe
 
 At the end of the two week (September 1), the thread will be locked. This is to encourage all of us to actually look through our closets instead of procrastinating. It is to help us keep responses and transaction timely. And to save all of us all time. 
 
-**Disclaimer: Don’t be a jerk.**
+**Disclaimer: Don’t be a jerk**
 
 ##Rules:
 1. Account must be at least one month old. And have 100 comment karma. 
@@ -36,14 +36,14 @@ An example:
 
     Shipping Range: [USA + Tophat]
 
-    (For Sale)[imgur link]: 
+    (For Sale)[http://imgur.com/r/cats]: 
     * ($100) Tarptent Notch, Good - 20 nights in the midwest  
     * ~~($50) Patagonia Puffy Medium, Great - Started lifting, accidently got buff!~~
 
     Want to Buy:
     * ($100) Tarptent Double Rainbow, Any - Would love to get the footprint too.
 
-##Replying to a posting:
+##How to Buy/Sell/Trade:
 
 Reply to a post with the item(s) that you want to buy/sell/trade to queue for them. Send the seller a PM to work out the details. 
 
