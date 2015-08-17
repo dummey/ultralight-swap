@@ -7,28 +7,28 @@ At the end of the two week (September 1), the thread will be locked. This is to 
 **Disclaimer: Don’t be a jerk.**
 
 ##Rules:
-Account must be at least one month old. And have 100 comment karma. 
-A verification post with items and user name must be provided.
-Packages must be sent out within one week. 
-You must get a tracking number to prove item has been shipped.
-Paypal is recommended for buyer/seller protection (arguably anyways).
-Do not post identifying information, do that through PMs.
-Make your root post with cross outs for sold items. New root posts can be made when 50% of your inventory has changed (by adding new things or by selling old things), use your discretion. 
+1. Account must be at least one month old. And have 100 comment karma. 
+2. A verification post with items and user name must be provided.
+3. Packages must be sent out within one week. 
+4. You must get a tracking number to prove item has been shipped.
+5. Paypal is recommended for buyer/seller protection (arguably anyways).
+6. Do not post identifying information, do that through PMs.
+7. Root posts are for listings only. ~~Cross~~ things out as they are sold. New root posts may be made when 50% of your inventory has changed, use your discretion. 
 
 ##Formatting Guidelines:
 
-Location: [Location]
-Timezone: [Timezone]
+    Location: [Location]
+    Timezone: [Timezone]
 
-Shipping Range: [List of Countries in Range]
+    Shipping Range: [List of Countries in Range]
 
-For Sale:
-* ([Price]) [Item Name], [Condition] - [Comment]
-* (US100) Tarptent Notch, Good Condition - Used for 10 days in Midwest, comes with stakes.  
-* --something sold--
+    For Sale:
+    * ([Price]) [Item Name], [Condition] - [Comment]
+    * (US100) Tarptent Notch, Good Condition - Used for 10 days in Midwest, comes with stakes.  
+    * --something sold--
 
-Want to Buy:
-* (US150) Tarptent Protrail
+    Want to Buy:
+    * (US150) Tarptent Protrail
 
 ##Replying to a posting:
 
