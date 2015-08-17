@@ -22,7 +22,7 @@ At the end of the two week (September 1), the thread will be locked. This is to 
 
     Shipping Range: [List of Countries in Range]
 
-    (For Sale)[imgur link]: 
+    [For Sale](imgur link): 
     * ([Price]) [Item Name], [Condition] - [Comment]  
     * ~~([Price]) [Item Name], [Condition] - [Comment]~~
 
@@ -36,7 +36,7 @@ An example:
 
     Shipping Range: USA + Tophat
 
-    (For Sale)[http://imgur.com/r/cats]: 
+    [For Sale](http://imgur.com/r/cats): 
     * ($100) Tarptent Notch, Good - 20 nights in the midwest  
     * ~~($50) Patagonia Puffy Medium, Great - Started lifting, accidently got buff!~~
 
