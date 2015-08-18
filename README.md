@@ -32,8 +32,8 @@ An example:
     Shipping Range: USA + Tophat
 
     [For Sale](http://imgur.com/RSd411f): 
-    * ($100) Tarptent Notch, Good - 20 nights in the midwest  
-    * ~~($50) Patagonia Puffy Medium, Great - Started lifting, accidently got buff!~~
+    * ($100) Mountain Hardware Thruway 50 Long, New - Just have too many packs. 
+    * ~~($75) Borah Gear Vest Medium, New - Too loose in the chest for me.~~
 
 ##How to Sell/Trade:
 
