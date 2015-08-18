@@ -31,7 +31,7 @@ An example:
 
     Shipping Range: USA + Tophat
 
-    [For Sale](http://imgur.com/r/cats): 
+    [For Sale](http://imgur.com/RSd411f): 
     * ($100) Tarptent Notch, Good - 20 nights in the midwest  
     * ~~($50) Patagonia Puffy Medium, Great - Started lifting, accidently got buff!~~
 
