@@ -2,7 +2,7 @@ Come one, come all to the first ever /r/ultralight swap meet!
 
 This will be a two week swap meet where you can sell/trade gear with your fellow redditors. Please keep items at least related to /r/ultralight and backpacking/hiking/camping. 
 
-At the end of the two week (September 1), the thread will be locked. This is to encourage all of us to actually look through our closets instead of procrastinating. It is to also help us keep responses and transaction timely.
+At the end of the two week, the thread will be locked. This is to encourage all of us to actually look through our closets instead of procrastinating. It is to also help us keep responses and transaction timely.
 
 **Disclaimer: Sell/trade at your own risk. Check your buyer/seller to make sure they are trustworthy.**
 
